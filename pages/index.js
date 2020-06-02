@@ -9,7 +9,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <h1 className='title'>{`<Coding Buddies />`}</h1>
+        <h1 className='title'>{`💻 < Coding Buddies />`}</h1>
       </main>
 
       <footer>
